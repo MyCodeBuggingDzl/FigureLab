@@ -42,3 +42,12 @@ A good second project to look at after this is "picture", which adds a class
 to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
 i was here :P
+
+
+Anwsers of the questions:
+
+2: If you call moveDown twice the object will move down two times of a certain height. If you call makeInvisible twice, the object will stay invisible.
+
+6: If you ivoke the changeColor method without putting the quotes, an error will appear and the system won't recognize the color.
+
+9: To achieve one of the image, I have to create two squares, a circle and a triangle. I need to change the size of the squares and the height and the length of the triangle. Then i would need to put all of the objects in place. The image could've been done in a different way, however i believe this is the most efficient and simple way to do it.
